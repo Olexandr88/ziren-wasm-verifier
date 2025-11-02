@@ -1,4 +1,4 @@
-# Ziren Wasm verification example
+n# Ziren Wasm verification example
 
 This repo demonstrates how to verify Groth16 and Plonk proofs in browser. We wrap the [`ziren-verifier`](https://github.com/ProjectZKM/Ziren.git) crate in wasm bindings, and invoke it from javascript.
 
